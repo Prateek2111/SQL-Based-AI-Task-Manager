@@ -9,7 +9,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 
-st.subheader("AI Task Manager")
+st.subheader("TaskFlow AI - Your Personal Task Manager")
 st.markdown(
     "Welcome to the AI Task Manager! You can manage your tasks using natural language commands."
 )
