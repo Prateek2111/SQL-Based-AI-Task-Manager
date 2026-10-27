@@ -1,0 +1,6 @@
+langgraph
+langchain
+sqlalchemy
+dotenv
+streamlit
+langchain-groq
